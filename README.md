@@ -10,7 +10,7 @@
   - Chief Technology Officer, ViaMe (2022-2023)
   - Junior Frontend Developer, SweetSpot (2020)
 - 🎓 Education: Forsbergs Skola. BSc Computer Science, Stockholm University.
-- 🔭 Currently building: an end-to-end telemetry and analytics pipeline for Unreal Engine 5, from crash-durable event logging through to heatmaps.
+- 🔭 Most Recent Project: an end-to-end telemetry and analytics pipeline for Unreal Engine 5, from crash-durable event logging through to heatmaps.
 - 🧩 I build the systems players feel, and the tooling that proves they work.
 
 ## 📫 Follow or Contact Me:
