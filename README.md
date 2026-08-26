@@ -17,6 +17,8 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-4CC2FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.davidizosimov.com/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.izosimov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-actual-slug/)
+[![itch.io](https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://your-account.itch.io/)
 
 ## 🌐 My Website & Portfolio:
 
