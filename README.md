@@ -1,42 +1,21 @@
-# Hello there! This is David.
+### Hi, I'm David
 
-### Game Developer, Gameplay & Tools Programmer, Unreal Engine 5, Telemetry Nerd
+Game Development Student at Forsbergs Skola (2025-2027), working on gameplay programming and engine tooling in Unreal Engine 5.
 
-- 📍 Location: Stockholm, Sweden
-- 💼 Work:
-  - Game Development Student, Forsbergs Skola (2025-2027)
-  - Software Tester (2023)
-  - Consulting Specialist (2023)
-  - Chief Technology Officer, ViaMe (2022-2023)
-  - Junior Frontend Developer, SweetSpot (2020)
-- 🎓 Education: Forsbergs Skola. BSc Computer Science, Stockholm University.
-- 🔭 Most Recent Project: an end-to-end telemetry and analytics pipeline for Unreal Engine 5, from crash-durable event logging through to heatmaps.
-- 🧩 I build the systems players feel, and the tooling that proves they work.
+**Looking for:** a LIA internship for next term — gameplay or tools programming.
 
-## 📫 Follow or Contact Me:
+#### Pinned work
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-4CC2FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.davidizosimov.com/)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.izosimov@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-actual-slug/)
-[![itch.io](https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://your-account.itch.io/)
+- **[WoWHub](https://github.com/DIzosimov/WoWHub)** — a finished project (Kotlin).
+- **[QuestionablyEpic](https://github.com/DIzosimov/QuestionablyEpic)** — a nearly-finished project (TypeScript).
+- **[EscapeRoomLab](https://github.com/DIzosimov/EscapeRoomLab)** — a C++/Unreal Engine 5 lab for gameplay fundamentals: an interactable base hierarchy, a key and keyring system, and Timeline-driven doors and light switches. Also featured on my [portfolio](https://www.davidizosimov.com/#work).
+- **[AuraFarmer](https://github.com/DIzosimov/AuraFarmer)** — a C++ project.
 
-## 🌐 My Website & Portfolio:
+#### Portfolio and contact
 
-[davidizosimov.com](https://www.davidizosimov.com/)
+- Portfolio: [davidizosimov.com](https://www.davidizosimov.com/)
+- Email: [david.izosimov@gmail.com](mailto:david.izosimov@gmail.com)
 
-## 🛠️ My Technology Stack:
+---
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+*Assumptions and sources for every line above are listed in `review.md`. Repo links use the standard `github.com/DIzosimov/<repo>` pattern — confirm each URL resolves before this is committed, since none were opened directly.*
